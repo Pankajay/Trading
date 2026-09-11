@@ -1,2 +1,2 @@
 # Trading
-Repo for trading bot
+Repo for trading bot test
